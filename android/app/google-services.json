@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "581324394770",
+    "project_id": "astsubaylarnet",
+    "storage_bucket": "astsubaylarnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581324394770:android:e1f07b75620e811b9ca3cb",
+        "android_client_info": {
+          "package_name": "herofly.app.webviewdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrXUh9lTtcX1A6myDKzk5KSTeqjrJ3F1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
